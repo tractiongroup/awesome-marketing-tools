@@ -11,6 +11,7 @@
   - [Contents](#contents)
   - [Ads Management](#ads-management)
   - [Email Conversion Boost](#email-conversion-boost)
+  - [Email Automation](#email-automation)
   - [Contribute](#contribute)
   - [License](#license)
 
@@ -30,6 +31,14 @@ Improve and manage Facebook, Instagram, Google Ads campaigns.
 Improve email conversion rate enriching contents with this tools.
 
 - [Emailurgency](https://emailurgency.com?ref=awesome-marketing-tools) - boost email conversion through dynamic countdowns
+
+## Email Automation
+
+Automate email conversations.
+
+- [Mailchimp](http://bit.ly/traction-mailchimp) - the most famous email list and autorespnder SaaS
+- [SendInBlue](http://bit.ly/traction-sendinblue) - automate email campaigns with custom logic
+- [Drip](http://bit.ly/traction-drip) - create an email ECRM
 
 ## Contribute
 
