@@ -10,6 +10,7 @@
 - [Awesome Marketing Tools](#awesome-marketing-tools)
   - [Contents](#contents)
   - [Ads Management](#ads-management)
+  - [Email Conversion Boost](#email-conversion-boost)
   - [Contribute](#contribute)
   - [License](#license)
 
@@ -23,6 +24,12 @@ Improve and manage Facebook, Instagram, Google Ads campaigns.
 - [Qwaya](http://bit.ly/traction-qwaya) - automating facebook and instagram ads
 - [Opteo](http://bit.ly/traction-opteo) - automating and managing Google Ads (AdWords)
 - [Needls](http://bit.ly/traction-needls) - facebook and instagram monitoring social media conversations in real time
+
+## Email Conversion Boost
+
+Improve email conversion rate enriching contents with this tools.
+
+- [Emailurgency](https://emailurgency.com?ref=awesome-marketing-tools) - boost email conversion through dynamic countdowns
 
 ## Contribute
 
