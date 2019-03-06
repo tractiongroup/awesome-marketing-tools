@@ -37,8 +37,24 @@ Improve email conversion rate enriching contents with this tools.
 Automate email conversations.
 
 - [Mailchimp](http://bit.ly/traction-mailchimp) - the most famous email list and autorespnder SaaS
-- [SendInBlue](http://bit.ly/traction-sendinblue) - automate email campaigns with custom logic
+- [SendInBlue](http://bit.ly/traction-sib) - automate email campaigns with custom logic
 - [Drip](http://bit.ly/traction-drip) - create an email ECRM
+
+## Analytics
+
+Analyze data
+
+- [Zoho Analytics](http://bit.ly/traction-zohoanalytics) - business Intelligence, Reporting and Analytics Software
+- [Data Studio](http://bit.ly/traction-datastudio) - analyze and visualize data with beautiful dashboards and charts
+- [Mixpanel](http://bit.ly/traction-mixpanel) - analyze and measure customers behaviours
+- [Chartio](http://bit.ly/traction-chartio) - data exploration, visualization and interactive dashboards
+
+## Tracking
+
+- [Countly](http://bit.ly/traction-countly) - omnichannel tracking platform
+- [Matomo (formerly Piwik)](http://bit.ly/traction-matomo) - tracking platform with 100% data ownership
+- [Open Web Analytics](http://bit.ly/traction-openwebanalytics) - open source web analytics platform
+
 
 ## Contribute
 
