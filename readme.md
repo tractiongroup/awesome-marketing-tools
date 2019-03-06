@@ -10,20 +10,9 @@
 - [Awesome Marketing Tools](#awesome-marketing-tools)
   - [Contents](#contents)
   - [Ads Management](#ads-management)
-  - [Ads Management](#ads-management-1)
   - [Contribute](#contribute)
   - [License](#license)
 
-
-## Ads Management
-
-Improve and manage Facebook, Instagram, Google Ads campaigns.
-
-- [Adespresso](http://bit.ly/traction-adespresso)
-- [Reveal](http://bit.ly/traction-reveal)
-- [Qwaya](http://bit.ly/traction-qwaya)
-- [Opteo](http://bit.ly/traction-opteo)
-- [Needls](http://bit.ly/traction-needls)
 
 ## Ads Management
 
