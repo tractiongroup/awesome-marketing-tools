@@ -18,11 +18,11 @@
 
 Improve and manage Facebook, Instagram, Google Ads campaigns.
 
-- [Adespresso](http://bit.ly/traction-adespresso)
-- [Reveal](http://bit.ly/traction-reveal)
-- [Qwaya](http://bit.ly/traction-qwaya)
-- [Opteo](http://bit.ly/traction-opteo)
-- [Needls](http://bit.ly/traction-needls)
+- [Adespresso](http://bit.ly/traction-adespresso) - managing, monitoring, automating for facebook ads
+- [Reveal](http://bit.ly/traction-reveal) - automating facebook ads
+- [Qwaya](http://bit.ly/traction-qwaya) - automating facebook and instagram ads
+- [Opteo](http://bit.ly/traction-opteo) - automating and managing Google Ads (AdWords)
+- [Needls](http://bit.ly/traction-needls) - facebook and instagram monitoring social media conversations in real time
 
 ## Contribute
 
