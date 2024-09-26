@@ -37,7 +37,7 @@ Improve email conversion rate enriching contents with this tools.
 Automate email conversations.
 
 - [Mailchimp](http://bit.ly/traction-mailchimp) - the most famous email list and autorespnder SaaS
-- [SendInBlue](http://bit.ly/traction-sib) - automate email campaigns with custom logic
+- [Brevo](http://bit.ly/traction-sib) - automate email campaigns with custom logic
 - [Drip](http://bit.ly/traction-drip) - create an email ECRM
 
 ## Analytics
