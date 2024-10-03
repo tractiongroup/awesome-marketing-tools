@@ -48,6 +48,7 @@ Improve email conversion rates and automate email campaigns.
 - [Klaviyo](https://www.klaviyo.com/) - Email marketing and SMS marketing for e-commerce
 - [ActiveCampaign](https://www.activecampaign.com/) - Customer experience automation platform
 - [EmailUrgency](https://emailurgency.com/) - Dynamic countdown timers for email marketing campaigns
+- [Heybounce](https://www.heybounce.io/) - Email verification service to reduce bounce rates
 
 ## Social Media Management
 
