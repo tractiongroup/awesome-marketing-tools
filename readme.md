@@ -107,6 +107,7 @@ Automate marketing processes and workflows.
 
 - [HubSpot](https://www.hubspot.com/) - Inbound marketing, sales, and service software
 - [Marketo](https://www.marketo.com/) - B2B marketing automation software
+- [Touchlead](https://touchlead.app) - All-in-one marketing software with automation support
 - [Pardot](https://www.pardot.com/) - B2B marketing automation by Salesforce
 - [Autopilot](https://www.autopilothq.com/) - Visual marketing automation software
 - [Customer.io](https://customer.io/) - Automated messaging platform
