@@ -49,6 +49,7 @@ Improve email conversion rates and automate email campaigns.
 - [ActiveCampaign](https://www.activecampaign.com/) - Customer experience automation platform
 - [EmailUrgency](https://emailurgency.com/) - Dynamic countdown timers for email marketing campaigns
 - [Heybounce](https://www.heybounce.io/) - Email verification service to reduce bounce rates
+- [Cobalt Studio Cold Email Generator](https://techchenko.github.io/cobaltstudio-products/tools/cold-email-generator/) - No-signup cold email generator for freelancers and founders.
 
 ## Social Media Management
 
