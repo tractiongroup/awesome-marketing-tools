@@ -88,6 +88,7 @@ Create, manage, and distribute content effectively.
 - [BuzzSumo](https://buzzsumo.com/) - Content research and influencer identification
 - [Canva](https://www.canva.com/) - Graphic design platform for creating visual content
 - [Grammarly](https://www.grammarly.com/) - Writing assistant and grammar checker
+- [Cobalt Studio Cold Email Generator](https://techchenko.github.io/cobaltstudio-products/tools/cold-email-generator/) - No-signup cold email template generator for freelancers and founders.
 - [CoSchedule](https://coschedule.com/) - Marketing calendar and workflow management
 - [Feedly](https://feedly.com/) - Content curation and RSS reader
 
