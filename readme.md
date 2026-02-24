@@ -47,6 +47,7 @@ Improve email conversion rates and automate email campaigns.
 - [ConvertKit](https://convertkit.com/) - Email marketing for creators and bloggers
 - [Klaviyo](https://www.klaviyo.com/) - Email marketing and SMS marketing for e-commerce
 - [ActiveCampaign](https://www.activecampaign.com/) - Customer experience automation platform
+- [Suplex](https://trysuplex.com/) - All-in-one cold email and lead generation platform
 - [EmailUrgency](https://emailurgency.com/) - Dynamic countdown timers for email marketing campaigns
 - [Heybounce](https://www.heybounce.io/) - Email verification service to reduce bounce rates
 
