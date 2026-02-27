@@ -24,6 +24,7 @@
   - [Customer Feedback and Surveys](#customer-feedback-and-surveys)
   - [Marketing Project Management](#marketing-project-management)
   - [Webinar and Virtual Events](#webinar-and-virtual-events)
+  - [Sales Assistant](#sales-assistant)
   - [Contribute](#contribute)
   - [License](#license)
 
@@ -193,6 +194,12 @@ Host and manage online events and webinars.
 - [GoToWebinar](https://www.gotomeeting.com/webinar) - Webinar and online event platform
 - [Demio](https://demio.com/) - Webinar and virtual event software
 - [Hopin](https://hopin.com/) - Virtual and hybrid event platform
+
+## Sales Assistant
+
+AI-powered tools to assist e-commerce visitors and improve the shopping experience.
+
+- [AI Sales Assistant (AISA)](https://aisalesassistant.it/) - AI sales assistant that reads your knowledge base, recognizes products, and displays them in chat with carousels and buy buttons. Opens tickets, books, and queries your systems when needed
 
 ## Contribute
 
