@@ -72,6 +72,8 @@ Analyze and visualize marketing data.
 - [Hotjar](https://www.hotjar.com/) - Website heatmaps and user behavior analytics
 - [Looker](https://looker.com/) - Business intelligence and big data analytics
 - [Tableau](https://www.tableau.com/) - Data visualization and business intelligence
+- [FullSession](https://www.fullsession.io/) – Session replay and user behavior analytics for websites
+
 
 ## SEO
 
