@@ -210,3 +210,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, Enrico Deleo <enrico@tractionmanagement.it> has waived all copyright and related or neighboring rights to this work.
+
+## Cold Email & B2B Outbound
+
+- [B2B Outbound Sniper](https://github.com/getlemnos32/b2b-outbound-sniper) - Open-source autonomous B2B outbound engine. Scrapes job boards for hiring signals, verifies emails, personalizes with 6 LLMs, sends via SMTP. 10/10 deliverability. 52.9% open rate in 30-day production campaign.
