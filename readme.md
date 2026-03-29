@@ -164,6 +164,7 @@ Improve website conversions and user experience.
 - [Lucky Orange](https://www.luckyorange.com/) - Conversion optimization and website analytics
 - [Crazy Egg](https://www.crazyegg.com/) - Website heatmaps and A/B testing
 - [OptimalUX](https://optimalux.com/) - Seamless SEO patching and A/B testing tool built on Cloudflare for effortless integration.
+- [Kirro](https://kirro.io/) - A/B testing tool with visual editor, Bayesian statistics, and GA4 conversion tracking.
 
 ## Customer Feedback and Surveys
 
