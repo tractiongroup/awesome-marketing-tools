@@ -61,6 +61,7 @@ Manage and analyze social media presence across multiple platforms.
 - [Sprout Social](https://sproutsocial.com/) - Social media management, analytics, and listening
 - [Later](https://later.com/) - Visual social media planner and scheduler
 - [Agorapulse](https://www.agorapulse.com/) - Social media management and reporting
+- [SocialBu](https://socialbu.com/) - AI-powered social media management, scheduling, automation, and analytics across all major platforms
 
 ## Analytics
 
