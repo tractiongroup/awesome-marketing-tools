@@ -25,6 +25,7 @@
   - [Marketing Project Management](#marketing-project-management)
   - [Webinar and Virtual Events](#webinar-and-virtual-events)
   - [Sales Assistant](#sales-assistant)
+  - [Product Launch Platforms](#product-launch-platforms)
   - [Contribute](#contribute)
   - [License](#license)
 
@@ -203,6 +204,12 @@ Host and manage online events and webinars.
 AI-powered tools to assist e-commerce visitors and improve the shopping experience.
 
 - [AI Sales Assistant (AISA)](https://aisalesassistant.it/) - AI sales assistant that reads your knowledge base, recognizes products, and displays them in chat with carousels and buy buttons. Opens tickets, books, and queries your systems when needed
+
+## Product Launch Platforms
+
+Platforms and directories to launch and promote startups and products.
+
+- [awesome-indie-launch](https://github.com/y2hhbw/awesome-indie-launch) - A curated list of 222+ places where indie hackers can launch and promote startups, including launch platforms and Reddit communities.
 
 ## Contribute
 
