@@ -86,6 +86,7 @@ Optimize websites for search engines and improve organic traffic.
 - [Moz Pro](https://moz.com/products/pro) - SEO software and tools
 - [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) - Website crawler and SEO auditing tool
 - [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - WordPress SEO plugin
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin (MIT) with 9 SEO and Google Ads skills; connects Google Search Console and PageSpeed Insights, rewrites meta tags, generates JSON-LD schema, and ships fixes to WordPress/Strapi/Contentful/Ghost. 107⭐
 
 ## Content Marketing
 
