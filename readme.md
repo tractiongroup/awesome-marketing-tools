@@ -207,6 +207,7 @@ Host and manage online events and webinars.
 AI-powered tools to assist e-commerce visitors and improve the shopping experience.
 
 - [AI Sales Assistant (AISA)](https://aisalesassistant.it/) - AI sales assistant that reads your knowledge base, recognizes products, and displays them in chat with carousels and buy buttons. Opens tickets, books, and queries your systems when needed
+- [MoveArt](https://moveart.alldayautomations.ai) - AI-powered outreach platform for visual artists to pitch galleries, collectors, and auction houses with personalized campaigns. From $79 per campaign.
 
 ## Product Launch Platforms
 
