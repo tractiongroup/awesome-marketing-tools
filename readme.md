@@ -87,7 +87,7 @@ Optimize websites for search engines and improve organic traffic.
 - [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) - Website crawler and SEO auditing tool
 - [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - WordPress SEO plugin
 - [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin (MIT) with 9 SEO and Google Ads skills.
-- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based SEO and marketing utilities including SEO meta tag generator, OG image generator, favicon generator, AI content disclosure generator (EU AI Act compliant), and AI robots.txt generator. No signup, runs locally. Open source.
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free browser-based SEO and marketing utilities — SEO meta tag generator, OG image generator, favicon generator, AI robots.txt generator (Google AI / ChatGPT / Claude crawlers), and AI content disclosure generator (EU AI Act compliant). No signup, runs in browser. Open source.
 
 ## Content Marketing
 
