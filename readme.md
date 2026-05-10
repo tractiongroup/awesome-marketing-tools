@@ -227,3 +227,4 @@ To the extent possible under law, Enrico Deleo <enrico@tractionmanagement.it> ha
 ## Cold Email & B2B Outbound
 
 - [B2B Outbound Sniper](https://github.com/getlemnos32/b2b-outbound-sniper) - Open-source autonomous B2B outbound engine. Scrapes job boards for hiring signals, verifies emails, personalizes with 6 LLMs, sends via SMTP. 10/10 deliverability. 52.9% open rate in 30-day production campaign.
+- [SalesLabel](https://sales-label.com) - White-label outbound sales infrastructure for B2B agencies. Used by 100+ agencies launching reseller offers under their own brand. Includes unlimited sending inboxes, AI personalization, and built-in deliverability infrastructure.
