@@ -68,6 +68,7 @@ Manage and analyze social media presence across multiple platforms.
 
 Analyze and visualize marketing data.
 
+- [WebCoreLab](https://webcorelab.com) — AI SEO audit tool + agency. 272 automated checks, AVI tracking (AI Visibility Index), GEO/AEO optimization.
 - [Google Analytics](https://analytics.google.com/) - Web analytics and reporting
 - [Mixpanel](https://mixpanel.com/) - Product analytics for user behavior
 - [Amplitude](https://amplitude.com/) - Product analytics and digital optimization
