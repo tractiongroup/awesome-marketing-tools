@@ -135,6 +135,7 @@ Monitor and analyze user behavior and marketing performance.
 Discover, manage, and analyze influencer marketing campaigns.
 
 - [AspireIQ](https://www.aspireiq.com/) - Influencer marketing and content creation platform
+- [Collabios](https://collabios.com/) - EU-native influencer marketplace with free EU compliance tools
 - [Upfluence](https://www.upfluence.com/) - Influencer search and campaign management
 - [Grin](https://grin.co/) - Influencer marketing software for direct-to-consumer brands
 - [Traackr](https://www.traackr.com/) - Influencer relationship management platform
