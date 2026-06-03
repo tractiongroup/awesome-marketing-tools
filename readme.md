@@ -26,6 +26,7 @@
   - [Webinar and Virtual Events](#webinar-and-virtual-events)
   - [Sales Assistant](#sales-assistant)
   - [Product Launch Platforms](#product-launch-platforms)
+  - [Marketing Job Boards](#marketing-job-boards)
   - [Contribute](#contribute)
   - [License](#license)
 
@@ -213,6 +214,12 @@ AI-powered tools to assist e-commerce visitors and improve the shopping experien
 Platforms and directories to launch and promote startups and products.
 
 - [awesome-indie-launch](https://github.com/y2hhbw/awesome-indie-launch) - A curated list of 222+ places where indie hackers can launch and promote startups, including launch platforms and Reddit communities.
+
+## Marketing Job Boards
+
+Job boards and career resources for marketers.
+
+- [Marketing Manager Jobs](https://marketingmanagerjobs.com/) - Curated job board for marketing manager-level roles, including remote, salary, role, and location-specific listings.
 
 ## Contribute
 
