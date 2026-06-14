@@ -159,6 +159,7 @@ Create, edit, and distribute video content.
 - [Loom](https://www.loom.com/) - Video messaging for work
 - [Animoto](https://animoto.com/) - Online video maker
 - [Vimeo](https://vimeo.com/) - Video hosting, sharing, and marketing platform
+- [VideoOverlayKit](https://github.com/alichherawalla/video-overlay-kit) - AI-driven animated b-roll overlay renderer for short-form social (LinkedIn, IG Reels, YouTube Shorts, TikTok). Paste your script into Claude Code / Cursor / Codex, the MCP server writes the scene spec and renders an mp4. Free, MIT, local.
 
 ## Conversion Rate Optimization (CRO)
 
