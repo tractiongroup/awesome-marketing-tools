@@ -120,6 +120,7 @@ Automate marketing processes and workflows.
 - [Customer.io](https://customer.io/) - Automated messaging platform
 - [AutoCust](https://www.autocust.it/) - AI-powered marketing automation platform with user behavior prediction and multichannel communication
 - [Hanzi](https://github.com/hanzili/hanzi-in-chrome) - Open-source AI agent for browser-based marketing automation. LinkedIn prospecting and social posting from your real signed-in browser. Free, works with any AI coding agent
+- [Mautic](https://www.mautic.org) - Open-source marketing automation platform for email campaigns, segmentation, lead management, and customer journeys.
 
 ## Tracking
 
