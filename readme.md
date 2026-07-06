@@ -87,6 +87,7 @@ Optimize websites for search engines and improve organic traffic.
 - [Screaming Frog](https://www.screamingfrog.co.uk/seo-spider/) - Website crawler and SEO auditing tool
 - [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - WordPress SEO plugin
 - [toprank](https://github.com/nowork-studio/toprank) - Open-source Claude Code plugin (MIT) with 9 SEO and Google Ads skills.
+- [AnswerLens](https://app.sfdj.net/) - Public-evidence audit for B2B SaaS sites covering crawlable pages, metadata, pricing, comparison pages, proof, and llms.txt.
 
 ## Content Marketing
 
