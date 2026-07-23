@@ -75,6 +75,7 @@ Analyze and visualize marketing data.
 - [Looker](https://looker.com/) - Business intelligence and big data analytics
 - [Tableau](https://www.tableau.com/) - Data visualization and business intelligence
 - [FullSession](https://www.fullsession.io/) – Session replay and user behavior analytics for websites
+- [Apstal](https://apstal.com) - AI-powered web analytics with session replay and AI chat. Cookieless, GDPR-compliant. Free tier: 10K events/month.
 
 
 ## SEO
