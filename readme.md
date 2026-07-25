@@ -172,6 +172,7 @@ Improve website conversions and user experience.
 - [Crazy Egg](https://www.crazyegg.com/) - Website heatmaps and A/B testing
 - [OptimalUX](https://optimalux.com/) - Seamless SEO patching and A/B testing tool built on Cloudflare for effortless integration.
 - [Kirro](https://kirro.io/) - A/B testing tool with visual editor, Bayesian statistics, and GA4 conversion tracking.
+- [Landing Copy Grader](https://parweb.github.io/landing-copy-grader/) - Scores landing page hero copy from 0 to 100 against a fixed checklist of AI-writing tells, in the browser
 
 ## Customer Feedback and Surveys
 
