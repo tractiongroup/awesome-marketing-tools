@@ -217,3 +217,4 @@ To the extent possible under law, Enrico Deleo <enrico@tractionmanagement.it> ha
 ## Cold Email & B2B Outbound
 
 - [Trayo](https://www.trayo.ai/) - AI-native GTM platform that detects buying signals (job changes, funding, hiring surges, M&A) across target accounts and prioritizes which accounts sales teams should work.
+- [OutreachAgent](https://outreachagent.dev/for-agents) - API-first, reply-aware outbound email infrastructure for AI agents with signed webhooks, sender pacing, approval controls, and delivery observability.
