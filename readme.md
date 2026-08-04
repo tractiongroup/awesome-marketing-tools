@@ -76,6 +76,7 @@ Analyze and visualize marketing data.
 - [Looker](https://looker.com/) - Business intelligence and big data analytics.
 - [Tableau](https://www.tableau.com/) - Data visualization and business intelligence.
 - [FullSession](https://www.fullsession.io/) - Session replay and user behavior analytics for websites.
+- [IntelCue](https://www.intelcue.ai/) - AI-powered market and competitive intelligence platform for tracking competitors and market signals.
 
 ## SEO
 
