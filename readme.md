@@ -159,6 +159,7 @@ Create, edit, and distribute video content.
 - [Loom](https://www.loom.com/) - Video messaging for work.
 - [Animoto](https://animoto.com/) - Online video maker.
 - [Vimeo](https://vimeo.com/) - Video hosting, sharing, and marketing platform.
+- [videos.social](https://videos.social/?utm_source=awesome-marketing-tools&utm_medium=directory&utm_campaign=listing-wave-d) - Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included.
 
 ## Conversion Rate Optimization (CRO)
 
