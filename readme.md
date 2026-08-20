@@ -64,6 +64,7 @@ Manage and analyze social media presence across multiple platforms.
 - [Agorapulse](https://www.agorapulse.com/) - Social media management and reporting.
 - [SocialBu](https://socialbu.com/) - AI-powered social media management, scheduling, automation, and analytics across all major platforms.
 - [OpenPost](https://openpost.social/) - Self-hosted social media scheduling for humans and AI agents.
+- [Publora](https://publora.com/) - Scheduling and publishing to ten networks from one API, with a remote MCP server so agents and editors can post directly.
 
 ## Analytics
 
