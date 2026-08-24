@@ -211,6 +211,7 @@ AI-powered tools to assist e-commerce visitors and improve the shopping experien
 Find, enrich, and automate B2B outbound and cold-email outreach.
 
 - [Trayo](https://www.trayo.ai/) - AI-native GTM platform that detects buying signals (job changes, funding, hiring surges, M&A) across target accounts and prioritizes which accounts sales teams should work.
+- [OctoLoops](https://octoloops.com) - Finds public threads and posts where a product is a genuine fit, scores buying intent, and drafts personalized outreach for the founder to review before sending.
 
 ## Contribute
 
