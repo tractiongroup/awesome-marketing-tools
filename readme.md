@@ -76,6 +76,7 @@ Analyze and visualize marketing data.
 - [Looker](https://looker.com/) - Business intelligence and big data analytics.
 - [Tableau](https://www.tableau.com/) - Data visualization and business intelligence.
 - [FullSession](https://www.fullsession.io/) - Session replay and user behavior analytics for websites.
+- [LLM Pulse](https://llmpulse.ai/) - AI search analytics for tracking brand mentions, citations, sentiment, and competitor share of voice across major AI answer engines.
 
 ## SEO
 
