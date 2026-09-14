@@ -159,6 +159,7 @@ Create, edit, and distribute video content.
 - [Loom](https://www.loom.com/) - Video messaging for work.
 - [Animoto](https://animoto.com/) - Online video maker.
 - [Vimeo](https://vimeo.com/) - Video hosting, sharing, and marketing platform.
+- [Feed Thumbnail](https://feedthumbnail.com/youtube-thumbnail-size) - Browser-based YouTube thumbnail preview and size-reference tool.
 
 ## Conversion Rate Optimization (CRO)
 
