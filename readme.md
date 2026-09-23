@@ -9,6 +9,7 @@
 </p>
 
 ## Contents
+- [Social Roster](https://socialroster.dev) - Schedule TikTok, Instagram Reels, YouTube Shorts, and Facebook videos from one calendar — with bulk upload.
 
 - [Ads Management](#ads-management)
 - [Email Marketing](#email-marketing)
