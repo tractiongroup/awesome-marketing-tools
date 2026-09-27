@@ -159,6 +159,7 @@ Create, edit, and distribute video content.
 - [Loom](https://www.loom.com/) - Video messaging for work.
 - [Animoto](https://animoto.com/) - Online video maker.
 - [Vimeo](https://vimeo.com/) - Video hosting, sharing, and marketing platform.
+- [Repostit](https://repostit.io/) - Publish finished short-form videos across social platforms from one workflow.
 
 ## Conversion Rate Optimization (CRO)
 
