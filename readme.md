@@ -159,6 +159,7 @@ Create, edit, and distribute video content.
 - [Loom](https://www.loom.com/) - Video messaging for work.
 - [Animoto](https://animoto.com/) - Online video maker.
 - [Vimeo](https://vimeo.com/) - Video hosting, sharing, and marketing platform.
+- [Mutator](https://mutator.app/) - Short TikTok and Instagram videos, slideshows and product photos from a product photo or website, scheduled to your own accounts.
 
 ## Conversion Rate Optimization (CRO)
 
