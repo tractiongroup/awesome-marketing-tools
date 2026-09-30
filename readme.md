@@ -168,6 +168,7 @@ Improve website conversions and user experience.
 - [VWO](https://vwo.com/) - A/B testing and conversion optimization platform.
 - [Unbounce](https://unbounce.com/) - Landing page and conversion optimization platform.
 - [Lucky Orange](https://www.luckyorange.com/) - Conversion optimization and website analytics.
+- [Leakly](https://leakly.ai/) - AI-powered conversion audit that finds revenue leaks on your website and prioritizes what to fix.
 - [Crazy Egg](https://www.crazyegg.com/) - Website heatmaps and A/B testing.
 - [Optux AI (formerly OptimalUX)](https://optux.ai/) - Seamless SEO patching and A/B testing tool built on Cloudflare for effortless integration.
 - [Kirro](https://kirro.io/) - A/B testing tool with visual editor, Bayesian statistics, and GA4 conversion tracking.
