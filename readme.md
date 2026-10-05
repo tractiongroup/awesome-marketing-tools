@@ -203,6 +203,7 @@ Host and manage online events and webinars.
 ## Sales Assistant
 
 AI-powered tools to assist e-commerce visitors and improve the shopping experience.
+- [AI Group Call](https://aigroupcall.app) - An AI council you can talk to: a group voice call where agents riff with each other, answer when named, and yield when you speak.
 
 - [AI Sales Assistant (AISA)](https://aisalesassistant.it/) - AI sales assistant that reads your knowledge base, recognizes products, and displays them in chat with carousels and buy buttons. Opens tickets, books, and queries your systems when needed.
 
