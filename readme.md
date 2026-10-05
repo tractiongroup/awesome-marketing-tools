@@ -38,6 +38,7 @@ Improve and manage advertising campaigns across various platforms.
 - [Smartly.io](https://www.smartly.io/) - Automating and optimizing social media advertising.
 - [Optmyzr](https://www.optmyzr.com/) - Automating and managing Google Ads, Microsoft Ads, and Amazon Ads.
 - [WordStream](https://www.wordstream.com/) - PPC management and optimization for Google Ads, Facebook, and Bing.
+- [Spytrend MCP](https://spytrend.com/mcp/?utm_source=awesome-marketing-tools&utm_medium=directory&utm_campaign=mcp-launch) - Facebook/Meta and TikTok ad analytics and competitor ad research inside AI assistants such as Claude, ChatGPT and Cursor, via MCP.
 
 ## Email Marketing
 
