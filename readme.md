@@ -139,6 +139,7 @@ Discover, manage, and analyze influencer marketing campaigns.
 - [Grin](https://grin.co/) - Influencer marketing software for direct-to-consumer brands.
 - [Traackr](https://www.traackr.com/) - Influencer relationship management platform.
 - [CreatorIQ](https://creatoriq.com/) - Enterprise influencer marketing platform.
+- [TGScope Channel Audit](https://tgscope.io/tools/telegram-channel-audit) - Check a Telegram channel's real reach against similar channels and forecast ad views and CPM before buying a post.
 
 ## Affiliate Marketing
 
