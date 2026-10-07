@@ -211,6 +211,7 @@ AI-powered tools to assist e-commerce visitors and improve the shopping experien
 Find, enrich, and automate B2B outbound and cold-email outreach.
 
 - [Trayo](https://www.trayo.ai/) - AI-native GTM platform that detects buying signals (job changes, funding, hiring surges, M&A) across target accounts and prioritizes which accounts sales teams should work.
+- [Warmerly](https://warmerly.com/) - Cold email and LinkedIn outreach with built-in email warmup and deliverability monitoring.
 
 ## Contribute
 
