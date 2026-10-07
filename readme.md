@@ -159,6 +159,7 @@ Create, edit, and distribute video content.
 - [Loom](https://www.loom.com/) - Video messaging for work.
 - [Animoto](https://animoto.com/) - Online video maker.
 - [Vimeo](https://vimeo.com/) - Video hosting, sharing, and marketing platform.
+- [ScaleReach](https://www.scalereach.ai) - Turns long videos into vertical short clips with AI captions, and schedules them to social accounts.
 
 ## Conversion Rate Optimization (CRO)
 
