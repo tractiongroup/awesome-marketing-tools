@@ -57,6 +57,7 @@ Improve email conversion rates and automate email campaigns.
 
 Manage and analyze social media presence across multiple platforms.
 
+- [Beamora](https://www.beamora.app) - AI content remixing and multi-platform social media scheduler.
 - [Hootsuite](https://hootsuite.com/) - Social media management, scheduling, and analytics.
 - [Buffer](https://buffer.com/) - Social media management and scheduling.
 - [Sprout Social](https://sproutsocial.com/) - Social media management, analytics, and listening.
