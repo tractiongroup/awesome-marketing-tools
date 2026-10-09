@@ -211,7 +211,7 @@ AI-powered tools to assist e-commerce visitors and improve the shopping experien
 Find, enrich, and automate B2B outbound and cold-email outreach.
 
 - [Trayo](https://www.trayo.ai/) - AI-native GTM platform that detects buying signals (job changes, funding, hiring surges, M&A) across target accounts and prioritizes which accounts sales teams should work.
-- [Datacircle](https://datacircle.dev/) - Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup. Every morning, you get the flat file of your data plus everyone else's.
+- [Datacircle](https://datacircle.dev/) - Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup. Free: 10M+ U.S. B2B leads, as a flat file. Download it at datacircle.dev.
 
 ## Contribute
 
