@@ -28,6 +28,7 @@
 - [Webinar and Virtual Events](#webinar-and-virtual-events)
 - [Sales Assistant](#sales-assistant)
 - [Cold Email & B2B Outbound](#cold-email--b2b-outbound)
+- [Data APIs](#data-apis)
 - [Contribute](#contribute)
 
 ## Ads Management
@@ -211,7 +212,12 @@ AI-powered tools to assist e-commerce visitors and improve the shopping experien
 Find, enrich, and automate B2B outbound and cold-email outreach.
 
 - [Trayo](https://www.trayo.ai/) - AI-native GTM platform that detects buying signals (job changes, funding, hiring surges, M&A) across target accounts and prioritizes which accounts sales teams should work.
-- [Datacircle](https://datacircle.dev/) - Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup. Free: 10M+ U.S. B2B leads, as a flat file. Download it at datacircle.dev.
+
+## Data APIs
+
+Query B2B data from your own code.
+
+- [Datacircle](https://datacircle.dev/) - Datacircle is a data co-op. Query your favorite B2B data APIs through us. Same request, same price, no markup. Every morning, you get the flat file of your data plus everyone else's.
 
 ## Contribute
 
