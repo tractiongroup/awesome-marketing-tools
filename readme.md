@@ -52,6 +52,7 @@ Improve email conversion rates and automate email campaigns.
 - [Suplex](https://trysuplex.com/) - All-in-one cold email and lead generation platform.
 - [EmailUrgency](https://emailurgency.com/) - Dynamic countdown timers for email marketing campaigns.
 - [Heybounce](https://www.heybounce.io/) - Email verification service to reduce bounce rates.
+- [day3](https://day3.app/) - Newsletters, product updates and transactional email for small software teams, billed by emails sent rather than list size.
 
 ## Social Media Management
 
