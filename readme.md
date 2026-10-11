@@ -98,6 +98,7 @@ Create, manage, and distribute content effectively.
 - [Grammarly](https://www.grammarly.com/) - Writing assistant and grammar checker.
 - [CoSchedule](https://coschedule.com/) - Marketing calendar and workflow management.
 - [Feedly](https://feedly.com/) - Content curation and RSS reader.
+- [Blawgy](https://blawgy.com/) - AI SEO blog writer that researches keywords, writes and publishes posts to WordPress, Shopify, Webflow and other CMSs, with an MCP server for AI agents.
 
 ## Customer Relationship Management (CRM)
 
