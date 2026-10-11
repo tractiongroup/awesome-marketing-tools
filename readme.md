@@ -98,6 +98,7 @@ Create, manage, and distribute content effectively.
 - [Grammarly](https://www.grammarly.com/) - Writing assistant and grammar checker.
 - [CoSchedule](https://coschedule.com/) - Marketing calendar and workflow management.
 - [Feedly](https://feedly.com/) - Content curation and RSS reader.
+- [TranslateMyImage](https://translatemyimage.com/) - Translates the text in marketing visuals, banners and product images into 45 languages while keeping the original layout.
 
 ## Customer Relationship Management (CRM)
 
