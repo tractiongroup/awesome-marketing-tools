@@ -64,6 +64,7 @@ Manage and analyze social media presence across multiple platforms.
 - [Agorapulse](https://www.agorapulse.com/) - Social media management and reporting.
 - [SocialBu](https://socialbu.com/) - AI-powered social media management, scheduling, automation, and analytics across all major platforms.
 - [OpenPost](https://openpost.social/) - Self-hosted social media scheduling for humans and AI agents.
+- [Repostit](https://repostit.io/) - Schedule and publish finished short-form videos to connected social channels.
 
 ## Analytics
 
@@ -159,7 +160,6 @@ Create, edit, and distribute video content.
 - [Loom](https://www.loom.com/) - Video messaging for work.
 - [Animoto](https://animoto.com/) - Online video maker.
 - [Vimeo](https://vimeo.com/) - Video hosting, sharing, and marketing platform.
-- [Repostit](https://repostit.io/) - Publish finished short-form videos across social platforms from one workflow.
 
 ## Conversion Rate Optimization (CRO)
 
