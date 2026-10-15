@@ -38,6 +38,7 @@ Improve and manage advertising campaigns across various platforms.
 - [Smartly.io](https://www.smartly.io/) - Automating and optimizing social media advertising.
 - [Optmyzr](https://www.optmyzr.com/) - Automating and managing Google Ads, Microsoft Ads, and Amazon Ads.
 - [WordStream](https://www.wordstream.com/) - PPC management and optimization for Google Ads, Facebook, and Bing.
+- [Adstudio](https://useadstudio.com/) - AI workspace for Google Ads, Meta Ads, and TikTok Ads with cross-platform reporting, an AI assistant, and a hosted MCP server.
 
 ## Email Marketing
 
