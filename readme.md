@@ -98,6 +98,7 @@ Create, manage, and distribute content effectively.
 - [Grammarly](https://www.grammarly.com/) - Writing assistant and grammar checker.
 - [CoSchedule](https://coschedule.com/) - Marketing calendar and workflow management.
 - [Feedly](https://feedly.com/) - Content curation and RSS reader.
+- [The AI Till Prompts](https://theaitill.com/prompts/) - Free copy-and-paste AI prompts for small-business marketing, such as review requests, Google Business Profile posts, leaflets and customer newsletters.
 
 ## Customer Relationship Management (CRM)
 
