@@ -88,6 +88,7 @@ Optimize websites for search engines and improve organic traffic.
 - [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - WordPress SEO plugin.
 - [Screpy](https://screpy.com/) - AI SEO platform for technical audits, rank tracking, Core Web Vitals, uptime monitoring, and reports.
 - [Kafkai](https://kafkai.com/) - Competitive intelligence platform for tracking competitor rankings and keywords, finding content gaps, and generating SEO content.
+- [BacklinkGenie](https://backlinkgenie.com/) - AI outreach agent for link building that finds relevant blog posts, writes a pitch to each editor for approval and tracks earned backlinks.
 
 ## Content Marketing
 
