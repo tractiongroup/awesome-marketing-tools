@@ -139,6 +139,7 @@ Discover, manage, and analyze influencer marketing campaigns.
 - [Grin](https://grin.co/) - Influencer marketing software for direct-to-consumer brands.
 - [Traackr](https://www.traackr.com/) - Influencer relationship management platform.
 - [CreatorIQ](https://creatoriq.com/) - Enterprise influencer marketing platform.
+- [tkmetrics](https://tkmetrics.com/) - TikTok influencer finder that ranks creators by average views and engagement rate on recent videos, with free creator rankings by country and a free TikTok money calculator.
 
 ## Affiliate Marketing
 
