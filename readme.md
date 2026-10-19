@@ -180,6 +180,7 @@ Collect and analyze customer feedback to improve products and services.
 - [Typeform](https://www.typeform.com/) - Online form and survey builder.
 - [Qualtrics](https://www.qualtrics.com/) - Experience management platform.
 - [Feedier](https://feedier.com/) - Customer feedback management platform.
+- [Pulse](https://pulsecorp.co) - AI-moderated market research platform that runs customer interviews at scale.
 
 ## Marketing Project Management
 
