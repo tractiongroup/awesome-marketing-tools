@@ -76,6 +76,7 @@ Analyze and visualize marketing data.
 - [Looker](https://looker.com/) - Business intelligence and big data analytics.
 - [Tableau](https://www.tableau.com/) - Data visualization and business intelligence.
 - [FullSession](https://www.fullsession.io/) - Session replay and user behavior analytics for websites.
+- [Mode VC WebMCP & Backlink Lens](https://modevc.com/tools/webmcp-backlink-lens) - Open-source Manifest V3 Chrome Extension and W3C WebMCP inspector for auditing dofollow/nofollow links and `.well-known/mcp.json` manifests.
 
 ## SEO
 
