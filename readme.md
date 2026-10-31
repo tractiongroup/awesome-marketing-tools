@@ -76,6 +76,7 @@ Analyze and visualize marketing data.
 - [Looker](https://looker.com/) - Business intelligence and big data analytics.
 - [Tableau](https://www.tableau.com/) - Data visualization and business intelligence.
 - [FullSession](https://www.fullsession.io/) - Session replay and user behavior analytics for websites.
+- [Vaneform](https://vaneform.com/) - Free website traffic checker with monthly visits, trends, sources, and growth leaderboards.
 
 ## SEO
 
