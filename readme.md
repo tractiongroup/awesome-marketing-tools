@@ -159,6 +159,7 @@ Create, edit, and distribute video content.
 - [Loom](https://www.loom.com/) - Video messaging for work.
 - [Animoto](https://animoto.com/) - Online video maker.
 - [Vimeo](https://vimeo.com/) - Video hosting, sharing, and marketing platform.
+- [Video Size Reducer](https://video-size-reducer.com/) - Compress marketing videos to a target file size for platform upload limits.
 
 ## Conversion Rate Optimization (CRO)
 
