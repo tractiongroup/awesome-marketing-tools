@@ -1,5 +1,15 @@
 # oh-my-claudecode (agent state — local only)
 .omc/
 
+# Agent state and local tooling
+.claude/
+.codegraph/
+.codex/
+.cursor/
+.opencode/
+.wolf/
+AGENTS.md
+GEMINI.md
+
 # Claude Code project instructions (local only)
 CLAUDE.md
