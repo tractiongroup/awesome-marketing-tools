@@ -5,7 +5,7 @@
 🌐 **[Browse the live site →](https://tractiongroup.github.io/awesome-marketing-tools/)**
 
 <p align="center">
-  <img src="media/logo.jpg" width="450" alt="Awesome Marketing Tools">
+  <img src="media/logo.png" width="450" alt="Awesome Marketing Tools">
 </p>
 
 ## Contents
