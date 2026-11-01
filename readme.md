@@ -34,6 +34,7 @@
 
 Improve and manage advertising campaigns across various platforms.
 
+- [AdVariq](https://advariq.com/) - AI ad creative and visual generator for solo founders and marketers to clone winning ads, edit product photos, and generate high-converting promotional assets.
 - [Bïrch (formerly Revealbot)](https://bir.ch/) - Automating Facebook, Instagram, and Google ads.
 - [Smartly.io](https://www.smartly.io/) - Automating and optimizing social media advertising.
 - [Optmyzr](https://www.optmyzr.com/) - Automating and managing Google Ads, Microsoft Ads, and Amazon Ads.
