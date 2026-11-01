@@ -1,0 +1,36 @@
+# Awesome Marketing Tools
+
+> A curated list of marketing tools across 19 categories — ads management, email, social media, analytics, SEO, content, CRM, automation, and more. Maintained by Traction Group; additions are accepted via pull request after verification of independent recognition.
+
+Canonical URL: https://tractiongroup.github.io/awesome-marketing-tools/
+Source repository: https://github.com/tractiongroup/awesome-marketing-tools
+Contribution guidelines: https://github.com/tractiongroup/awesome-marketing-tools/blob/main/contributing.md
+
+Lists are curated: tools are added only when widely used or recognized in the marketing industry, with independent verification. Each entry links to the tool's official site.
+
+## Categories
+
+- [Ads Management](https://tractiongroup.github.io/awesome-marketing-tools/#ads-management): Tools to improve and manage advertising campaigns across Google, Meta, TikTok, and other platforms.
+- [Email Marketing](https://tractiongroup.github.io/awesome-marketing-tools/#email-marketing): Platforms for email campaigns, automation, verification, and deliverability.
+- [Social Media Management](https://tractiongroup.github.io/awesome-marketing-tools/#social-media-management): Tools to schedule, publish, and analyze social media presence across platforms.
+- [Analytics](https://tractiongroup.github.io/awesome-marketing-tools/#analytics): Tools to analyze and visualize marketing and web data.
+- [SEO](https://tractiongroup.github.io/awesome-marketing-tools/#seo): Tools for technical audits, rank tracking, keyword research, and search optimization.
+- [Content Marketing](https://tractiongroup.github.io/awesome-marketing-tools/#content-marketing): Tools to create, manage, and distribute content.
+- [Customer Relationship Management (CRM)](https://tractiongroup.github.io/awesome-marketing-tools/#customer-relationship-management-crm): Platforms for managing customer relationships and sales pipelines.
+- [Marketing Automation](https://tractiongroup.github.io/awesome-marketing-tools/#marketing-automation): Tools to automate recurring marketing workflows and campaigns.
+- [Tracking](https://tractiongroup.github.io/awesome-marketing-tools/#tracking): Attribution and campaign tracking tools.
+- [Influencer Marketing](https://tractiongroup.github.io/awesome-marketing-tools/#influencer-marketing): Tools to discover, manage, and analyze influencer campaigns.
+- [Affiliate Marketing](https://tractiongroup.github.io/awesome-marketing-tools/#affiliate-marketing): Platforms for affiliate program management and partnerships.
+- [Video Marketing](https://tractiongroup.github.io/awesome-marketing-tools/#video-marketing): Tools to create, edit, host, and distribute video content.
+- [Conversion Rate Optimization (CRO)](https://tractiongroup.github.io/awesome-marketing-tools/#conversion-rate-optimization-cro): Tools for A/B testing, heatmaps, and conversion optimization.
+- [Customer Feedback and Surveys](https://tractiongroup.github.io/awesome-marketing-tools/#customer-feedback-and-surveys): Tools to collect and analyze customer feedback.
+- [Marketing Project Management](https://tractiongroup.github.io/awesome-marketing-tools/#marketing-project-management): Tools for marketing planning, calendars, and team workflows.
+- [Webinar and Virtual Events](https://tractiongroup.github.io/awesome-marketing-tools/#webinar-and-virtual-events): Platforms for hosting webinars and virtual events.
+- [Sales Assistant](https://tractiongroup.github.io/awesome-marketing-tools/#sales-assistant): AI assistants that support online sales conversations.
+- [Cold Email & B2B Outbound](https://tractiongroup.github.io/awesome-marketing-tools/#cold-email--b2b-outbound): Tools to find, enrich, and automate B2B outbound and cold-email outreach.
+
+## Policies
+
+- [Contribution guidelines](https://github.com/tractiongroup/awesome-marketing-tools/blob/main/contributing.md): Format rules, quality bar, and the pull-request process for suggesting tools.
+- [Code of conduct](https://github.com/tractiongroup/awesome-marketing-tools/blob/main/code-of-conduct.md): Contributor code of conduct.
+- [License](https://github.com/tractiongroup/awesome-marketing-tools/blob/main/LICENSE): Repository license.
