@@ -155,6 +155,7 @@ Manage and track affiliate marketing programs.
 Create, edit, and distribute video content.
 
 - [Wistia](https://wistia.com/) - Video hosting and marketing platform.
+- [Wizmade](https://wizmade.si/) - All-in-one AI video and image creation platform featuring Kling, Veo 3.1, Seedance, FLUX, and viral video effects.
 - [Vidyard](https://www.vidyard.com/) - Video platform for businesses.
 - [Loom](https://www.loom.com/) - Video messaging for work.
 - [Animoto](https://animoto.com/) - Online video maker.
