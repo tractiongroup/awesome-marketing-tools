@@ -131,6 +131,7 @@ Automate marketing processes and workflows.
 - [Ortto (formerly Autopilot)](https://ortto.com/) - Visual marketing automation software.
 - [Customer.io](https://customer.io/) - Automated messaging platform.
 - [AutoCust](https://www.autocust.it/) - AI-powered marketing automation platform with user behavior prediction and multichannel communication.
+- [mcpmarketing.ai](https://mcpmarketing.ai/) - Directory of over 150 MCP servers that connect AI assistants to ads, SEO, analytics, CRM and email tools.
 
 ## Tracking
 
