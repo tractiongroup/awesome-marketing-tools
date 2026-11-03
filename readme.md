@@ -171,6 +171,7 @@ Create, edit, and distribute video content.
 - [Loom](https://www.loom.com/) - Video messaging for work.
 - [Animoto](https://animoto.com/) - Online video maker.
 - [Vimeo](https://vimeo.com/) - Video hosting, sharing, and marketing platform.
+- [CartViral](https://cartviral.com/) - AI product videos for TikTok, Reels and Shorts, plus product photos, carousels and static ads, made from a product link.
 
 ## Conversion Rate Optimization (CRO)
 
