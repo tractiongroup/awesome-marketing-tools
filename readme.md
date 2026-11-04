@@ -66,6 +66,7 @@ Manage and analyze social media presence across multiple platforms.
 - [SocialBu](https://socialbu.com/) - AI-powered social media management, scheduling, automation, and analytics across all major platforms.
 - [OpenPost](https://openpo.st/) - Self-hosted social media scheduling for humans and AI agents.
 - [Pingroupie](https://pingroupie.com/) - Pinterest group board directory with profile analytics and pin scheduling.
+- [OpenSparta](https://opensparta.com/) - Telegram marketing workspace for account and proxy operations, with Lead Radar to monitor selected communities for buying requests and review ranked opportunities with original-message evidence.
 
 ## Analytics
 
