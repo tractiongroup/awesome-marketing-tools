@@ -171,6 +171,7 @@ Create, edit, and distribute video content.
 - [Loom](https://www.loom.com/) - Video messaging for work.
 - [Animoto](https://animoto.com/) - Online video maker.
 - [Vimeo](https://vimeo.com/) - Video hosting, sharing, and marketing platform.
+- [RefVid](https://refvid.com/) - AI product and character videos from 1-10 reference photos, with the same label and face in every clip.
 
 ## Conversion Rate Optimization (CRO)
 
