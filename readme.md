@@ -141,6 +141,7 @@ Monitor and analyze user behavior and marketing performance.
 - [Heap](https://heap.io/) - Digital insights platform.
 - [Matomo (formerly Piwik)](https://matomo.org/) - Open-source web analytics platform.
 - [Plausible](https://plausible.io/) - Simple and privacy-friendly analytics.
+- [QRGlo](https://qrglo.com/) - Free dynamic QR codes with scan tracking by time, city and device; codes never expire.
 
 ## Influencer Marketing
 
