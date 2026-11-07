@@ -39,6 +39,7 @@ Improve and manage advertising campaigns across various platforms.
 - [Optmyzr](https://www.optmyzr.com/) - Automating and managing Google Ads, Microsoft Ads, and Amazon Ads.
 - [WordStream](https://www.wordstream.com/) - PPC management and optimization for Google Ads, Facebook, and Bing.
 - [Adstudio](https://useadstudio.com/) - AI workspace for Google Ads, Meta Ads, and TikTok Ads with cross-platform reporting, an AI assistant, and a hosted MCP server.
+- [AdeptAds Google Ads Campaign Brief Builder](https://www.adeptads.ai/tools/google-ads-campaign-brief?utm_source=github&utm_medium=directory&utm_campaign=github-ppc-list-pr-394) - Free brief builder for planning Google Ads campaigns: market research, keyword discovery and ad group structure (by AdeptAds).
 
 ## Email Marketing
 
