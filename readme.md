@@ -222,6 +222,7 @@ AI-powered tools to assist e-commerce visitors and improve the shopping experien
 
 Find, enrich, and automate B2B outbound and cold-email outreach.
 
+- [MailVeri](https://mailveri.com/) - Bulk and real-time email verification that removes invalid, catch-all and disposable addresses before outbound sends; pay-as-you-go credits.
 - [Trayo](https://www.trayo.ai/) - AI-native GTM platform that detects buying signals (job changes, funding, hiring surges, M&A) across target accounts and prioritizes which accounts sales teams should work.
 
 ## Contribute
