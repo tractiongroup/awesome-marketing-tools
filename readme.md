@@ -171,6 +171,7 @@ Create, edit, and distribute video content.
 - [Loom](https://www.loom.com/) - Video messaging for work.
 - [Animoto](https://animoto.com/) - Online video maker.
 - [Vimeo](https://vimeo.com/) - Video hosting, sharing, and marketing platform.
+- [Shotboard](https://getshotboard.com) - Research ads, write scripts, and make the images, video and voice. Bring your Claude or ChatGPT subscription and use 100 media models, paying providers directly with no markup.
 
 ## Conversion Rate Optimization (CRO)
 
