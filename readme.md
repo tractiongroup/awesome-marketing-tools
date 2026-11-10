@@ -171,6 +171,7 @@ Create, edit, and distribute video content.
 - [Loom](https://www.loom.com/) - Video messaging for work.
 - [Animoto](https://animoto.com/) - Online video maker.
 - [Vimeo](https://vimeo.com/) - Video hosting, sharing, and marketing platform.
+- [ClipUGC](https://clipugc.com) - UGC style vertical videos for apps with AI influencers, ready to post on TikTok, Reels and Shorts.
 
 ## Conversion Rate Optimization (CRO)
 
