@@ -161,6 +161,7 @@ Manage and track affiliate marketing programs.
 - [Refersion](https://www.refersion.com/) - Affiliate marketing and influencer management.
 - [Post Affiliate Pro](https://www.postaffiliatepro.com/) - Affiliate tracking software.
 - [Everflow](https://everflow.io/) - Partner marketing platform.
+- [Marquorum](https://marquorum.com/) - Free affiliate network for creators who promote AI software. Track referrals, commissions and payouts.
 
 ## Video Marketing
 
