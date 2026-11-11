@@ -66,6 +66,7 @@ Manage and analyze social media presence across multiple platforms.
 - [SocialBu](https://socialbu.com/) - AI-powered social media management, scheduling, automation, and analytics across all major platforms.
 - [OpenPost](https://openpo.st/) - Self-hosted social media scheduling for humans and AI agents.
 - [Pingroupie](https://pingroupie.com/) - Pinterest group board directory with profile analytics and pin scheduling.
+- [Wavegrain](https://wavegrain.com) - Curated TikTok slideshows and Instagram carousels for your brand on autopilot.
 
 ## Analytics
 
