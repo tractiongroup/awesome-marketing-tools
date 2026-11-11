@@ -111,6 +111,7 @@ Manage customer interactions and data throughout the customer lifecycle.
 - [Pipedrive](https://www.pipedrive.com/) - Sales-focused CRM and pipeline management.
 - [Zoho CRM](https://www.zoho.com/crm/) - Web-based CRM solution.
 - [Freshsales](https://www.freshworks.com/freshsales-crm/) - AI-powered CRM for sales teams.
+- [Genaya](https://genaya.com/) - CRM and operations platform for service businesses with scheduling, invoicing and an AI phone receptionist.
 
 ## Marketing Automation
 
