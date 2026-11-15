@@ -91,6 +91,7 @@ Optimize websites for search engines and improve organic traffic.
 - [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - WordPress SEO plugin.
 - [Screpy](https://screpy.com/) - AI SEO platform for technical audits, rank tracking, Core Web Vitals, uptime monitoring, and reports.
 - [Kafkai](https://kafkai.com/) - Competitive intelligence platform for tracking competitor rankings and keywords, finding content gaps, and generating SEO content.
+- [CohesionStack Metadata Packer](https://www.cohesionstack.com/opengraph-webpage-metadata) - Free tool that extracts Open Graph, Twitter Card and JSON-LD from up to 10 URLs and exports a CSV plus a ZIP of images and favicons.
 
 ## Content Marketing
 
