@@ -151,7 +151,7 @@ Discover, manage, and analyze influencer marketing campaigns.
 - [Grin](https://grin.co/) - Influencer marketing software for direct-to-consumer brands.
 - [Traackr](https://www.traackr.com/) - Influencer relationship management platform.
 - [CreatorIQ](https://creatoriq.com/) - Enterprise influencer marketing platform.
-- [Transformer](https://transformer.gg/?utm_source=awesome-marketing-tools&utm_medium=referral&utm_campaign=backlinks&utm_content=listing) - Marketplace for sponsored posts on X, run from a dashboard or by AI agents over MCP.
+- [Transformer.gg](https://transformer.gg/?utm_source=awesome-marketing-tools&utm_medium=referral&utm_campaign=backlinks&utm_content=listing) - Marketplace for sponsored posts on X, run from a dashboard or by AI agents over MCP.
 
 ## Affiliate Marketing
 
