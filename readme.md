@@ -91,6 +91,7 @@ Optimize websites for search engines and improve organic traffic.
 - [Yoast SEO](https://yoast.com/wordpress/plugins/seo/) - WordPress SEO plugin.
 - [Screpy](https://screpy.com/) - AI SEO platform for technical audits, rank tracking, Core Web Vitals, uptime monitoring, and reports.
 - [Kafkai](https://kafkai.com/) - Competitive intelligence platform for tracking competitor rankings and keywords, finding content gaps, and generating SEO content.
+- [Seeably](https://seeably.ai/) - Shows which local businesses ChatGPT, Gemini, Claude, Perplexity and Google AI Mode recommend in a niche and city, and which they skip.
 
 ## Content Marketing
 
