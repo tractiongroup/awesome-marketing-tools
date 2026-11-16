@@ -39,6 +39,7 @@ Improve and manage advertising campaigns across various platforms.
 - [Optmyzr](https://www.optmyzr.com/) - Automating and managing Google Ads, Microsoft Ads, and Amazon Ads.
 - [WordStream](https://www.wordstream.com/) - PPC management and optimization for Google Ads, Facebook, and Bing.
 - [Adstudio](https://useadstudio.com/) - AI workspace for Google Ads, Meta Ads, and TikTok Ads with cross-platform reporting, an AI assistant, and a hosted MCP server.
+- [Skaler](https://skaler.app/) - Creative analytics for Meta ads: shows which ads win by hook, angle and format, with competitor ad research, bulk launching and an MCP server for Claude and ChatGPT.
 
 ## Email Marketing
 
