@@ -224,6 +224,7 @@ Find, enrich, and automate B2B outbound and cold-email outreach.
 
 - [Trayo](https://www.trayo.ai/) - AI-native GTM platform that detects buying signals (job changes, funding, hiring surges, M&A) across target accounts and prioritizes which accounts sales teams should work.
 - [MailVeri](https://mailveri.com/) - Bulk and real-time email verification that removes invalid, catch-all and disposable addresses before outbound sends; pay-as-you-go credits.
+- [Founder Email Finder](https://founders.intropi.in/) - Finds the founder or owner and their email on each company's own website, marked as published or guessed, for lists of websites or Google Maps results; pay per use.
 
 ## Contribute
 
