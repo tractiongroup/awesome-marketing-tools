@@ -224,6 +224,7 @@ Find, enrich, and automate B2B outbound and cold-email outreach.
 
 - [Trayo](https://www.trayo.ai/) - AI-native GTM platform that detects buying signals (job changes, funding, hiring surges, M&A) across target accounts and prioritizes which accounts sales teams should work.
 - [MailVeri](https://mailveri.com/) - Bulk and real-time email verification that removes invalid, catch-all and disposable addresses before outbound sends; pay-as-you-go credits.
+- [Revenue Scout](https://revenuescout.ai/) - Agentic Coworker for sales prospecting. Scout finds public posts from people who need what you sell and drafts replies for manual review and posting. Reply requests help Scout explore better search phrases.
 
 ## Contribute
 
