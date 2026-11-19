@@ -171,6 +171,7 @@ Create, edit, and distribute video content.
 - [Loom](https://www.loom.com/) - Video messaging for work.
 - [Animoto](https://animoto.com/) - Online video maker.
 - [Vimeo](https://vimeo.com/) - Video hosting, sharing, and marketing platform.
+- [Starpop](https://starpop.ai/) - AI ad agent that researches customer language and winning ads, then generates UGC, static and video ads for e-commerce, apps and SaaS.
 
 ## Conversion Rate Optimization (CRO)
 
