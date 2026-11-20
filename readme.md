@@ -101,6 +101,7 @@ Create, manage, and distribute content effectively.
 - [Grammarly](https://www.grammarly.com/) - Writing assistant and grammar checker.
 - [CoSchedule](https://coschedule.com/) - Marketing calendar and workflow management.
 - [Feedly](https://feedly.com/) - Content curation and RSS reader.
+- [FreshStore](https://www.freshstore.com/) - Affiliate site builder with AI-written product pages, buying guides and reviews.
 
 ## Customer Relationship Management (CRM)
 
