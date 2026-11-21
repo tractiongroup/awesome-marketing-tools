@@ -171,6 +171,7 @@ Create, edit, and distribute video content.
 - [Loom](https://www.loom.com/) - Video messaging for work.
 - [Animoto](https://animoto.com/) - Online video maker.
 - [Vimeo](https://vimeo.com/) - Video hosting, sharing, and marketing platform.
+- [October](https://www.october-ai.com/) - iPhone app that turns one walk through a home, rental or venue into listing photos and a walkthrough video.
 
 ## Conversion Rate Optimization (CRO)
 
