@@ -151,6 +151,7 @@ Discover, manage, and analyze influencer marketing campaigns.
 - [Grin](https://grin.co/) - Influencer marketing software for direct-to-consumer brands.
 - [Traackr](https://www.traackr.com/) - Influencer relationship management platform.
 - [CreatorIQ](https://creatoriq.com/) - Enterprise influencer marketing platform.
+- [nCircle](https://ncircle.app/) - Manages campaigns with nano creators and reports the views earned by each published post.
 
 ## Affiliate Marketing
 
