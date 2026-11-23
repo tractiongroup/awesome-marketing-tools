@@ -53,6 +53,7 @@ Improve email conversion rates and automate email campaigns.
 - [Suplex](https://trysuplex.com/) - All-in-one cold email and lead generation platform.
 - [EmailUrgency](https://emailurgency.com/) - Dynamic countdown timers for email marketing campaigns.
 - [Heybounce](https://www.heybounce.io/) - Email verification service to reduce bounce rates.
+- [Free Email Signature Generator](https://free-email-signature-generator.web-free.site/) - Create HTML email signatures with logo and social links for Gmail, Outlook and Apple Mail.
 
 ## Social Media Management
 
