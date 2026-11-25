@@ -151,6 +151,7 @@ Discover, manage, and analyze influencer marketing campaigns.
 - [Grin](https://grin.co/) - Influencer marketing software for direct-to-consumer brands.
 - [Traackr](https://www.traackr.com/) - Influencer relationship management platform.
 - [CreatorIQ](https://creatoriq.com/) - Enterprise influencer marketing platform.
+- [InayaFlow](https://inayaflow.ai) - Free TikTok tools and AI account analysis for creators, including a shadowban checker, follower count checker and hashtag generator.
 
 ## Affiliate Marketing
 
