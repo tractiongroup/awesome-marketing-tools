@@ -171,6 +171,7 @@ Create, edit, and distribute video content.
 - [Loom](https://www.loom.com/) - Video messaging for work.
 - [Animoto](https://animoto.com/) - Online video maker.
 - [Vimeo](https://vimeo.com/) - Video hosting, sharing, and marketing platform.
+- [Seedance AI Video Generator](https://www.seeddance.io/) - Browser-based AI video generator for short marketing clips, with a free first clip and no login required.
 
 ## Conversion Rate Optimization (CRO)
 
