@@ -53,6 +53,7 @@ Improve email conversion rates and automate email campaigns.
 - [Suplex](https://trysuplex.com/) - All-in-one cold email and lead generation platform.
 - [EmailUrgency](https://emailurgency.com/) - Dynamic countdown timers for email marketing campaigns.
 - [Heybounce](https://www.heybounce.io/) - Email verification service to reduce bounce rates.
+- [Poptin MCP](https://developers.poptin.com/docs/mcp) - Hosted connector for drafting email campaigns, reviewing campaign and popup performance, and building audience segments.
 
 ## Social Media Management
 
