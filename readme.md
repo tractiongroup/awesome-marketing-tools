@@ -66,6 +66,7 @@ Manage and analyze social media presence across multiple platforms.
 - [SocialBu](https://socialbu.com/) - AI-powered social media management, scheduling, automation, and analytics across all major platforms.
 - [OpenPost](https://openpo.st/) - Self-hosted social media scheduling for humans and AI agents.
 - [Pingroupie](https://pingroupie.com/) - Pinterest group board directory with profile analytics and pin scheduling.
+- [Groundsocial](https://groundsocial.dev/) - Social listening and competitor tracking API: public posts, comments and profiles from Reddit, X, TikTok, Instagram, YouTube and 70+ more platforms.
 
 ## Analytics
 
