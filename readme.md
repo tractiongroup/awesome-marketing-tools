@@ -101,6 +101,7 @@ Create, manage, and distribute content effectively.
 - [Grammarly](https://www.grammarly.com/) - Writing assistant and grammar checker.
 - [CoSchedule](https://coschedule.com/) - Marketing calendar and workflow management.
 - [Feedly](https://feedly.com/) - Content curation and RSS reader.
+- [Tweenery](https://tweenery.com/) - AI agent that turns an idea or a post you like into a ready-to-post Instagram carousel or TikTok slideshow.
 
 ## Customer Relationship Management (CRM)
 
